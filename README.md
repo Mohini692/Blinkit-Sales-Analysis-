@@ -11,8 +11,6 @@ The objective of this project is to analyze Blinkit grocery sales data and build
 
 The goal is to help business stakeholders make data-driven decisions to improve sales, optimize inventory, and identify high-performing outlets.
 
-The goal is to help business stakeholders make data-driven decisions to improve sales, optimize inventory, and identify high-performing outlets.
-
 🧠 Business Insights Derived
 
 🔹 Medium-sized outlets generate the highest revenue share.
